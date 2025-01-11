@@ -3,7 +3,7 @@
 A passionate young developer currently studying Computer Science at Haramaya University. I'm deeply interested in exploring the world of technology, and my current focus is on mastering Full-stack web development.
 
 # 💫 About Me:
-🎓 Studying Computer Science at Haramaya University<br>💻 Currently diving into Full-stack web development<br>🌱 Always eager to learn and expand my skills<br>🔍 Exploring various programming languages and technologies<br>🚀 Love building projects and solving problems
+🎓 Studying Computer Science at Haramaya University<br>💻 Currently diving into Backend development<br>🌱 Always eager to learn and expand my skills<br>🔍 Exploring various programming languages and technologies<br>🚀 Love building projects and solving problems
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/esmael_sabir9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/esmael-sabir/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Esmael_sabir?t=NOy6uJfJNxhf0bVNp_aaEg&s=01) 
