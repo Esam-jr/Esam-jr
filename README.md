@@ -1,4 +1,4 @@
-# ![Big Picture](https://link_to_your_big_picture_image.jpg)
+# ![Big Picture](github1.png)
 
 <h1 align="center">Hi 👋, I'm Esmael Sabir</h1>
 <h3 align="center">A Passinat Fullstack developer From in Ethiopia</h3>
