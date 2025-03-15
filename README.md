@@ -12,7 +12,7 @@
 
 - 🚀 Love building projects and solving problems
 
-- 💬 Ask me about **MERN stack**
+- 🔭 I’m currently working on [StartTex](https://github.com/Esam-jr/StartTex)
 
 - 📫 How to reach me **esmaelsabir9@gmail.com**
 
