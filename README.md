@@ -1,7 +1,7 @@
 # ![Big Picture](github1.png)
 
 <h1 align="center">Hi 👋, I'm Esmael Sabir</h1>
-<h3 align="center">A Passinat Fullstack developer From in Ethiopia</h3>
+<h3 align="center">A Passinat Fullstack developer From Ethiopia</h3>
 
 # 💫 About Me:
 - 🎓 Studying Computer Science at Haramaya University<br>
