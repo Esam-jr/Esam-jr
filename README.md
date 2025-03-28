@@ -1,4 +1,3 @@
-# ![Big Picture](github1.png)
 
 <h1 align="center">Hi 👋, I'm Esmael Sabir</h1>
 <h3 align="center">A Passinat Fullstack developer From Ethiopia</h3>
