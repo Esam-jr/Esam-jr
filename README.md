@@ -11,7 +11,6 @@
 
 - 🚀 Love building projects and solving problems
 
-- 🔭 I’m currently working on [StartTex](https://github.com/Esam-jr/StartTex)
 
 - 📫 How to reach me **esmaelsabir9@gmail.com**
 
