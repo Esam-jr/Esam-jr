@@ -15,7 +15,6 @@ I'm a full-stack software engineer based in **Addis Ababa, Ethiopia**, building 
 My home base is the **TypeScript** ecosystem: React and Next.js on the front end, NestJS and Node.js on the back end, and mobile and installable apps with React Native, Expo, and PWAs.
 
 - 🧩 **What I do:** end-to-end product development, with a strong backend and system design focus
-- 🌍 **What I care about:** developer tooling for East African languages, such as [QalSync](https://github.com/Esam-jr/QalSync), a localization toolchain for Amharic, Afaan Oromo, Tigrinya, and Somali
 - 🤖 **Exploring:** AI-powered applications and scalable backend architectures
 - 📱 **Also building:** offline-first mobile experiences
 - 🔗 **More about me:** [esmaelsabir.pro.et](https://esmaelsabir.pro.et/)
