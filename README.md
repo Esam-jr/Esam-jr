@@ -1,37 +1,78 @@
+<p align="center">
+  <img src="./banner.svg" alt="Esmael Sabir - Full-Stack Software Engineer" width="100%" />
+</p>
 
-# Esmael Sabir
+<p align="center">
+  <a href="https://esmaelsabir.pro.et/"><img src="https://img.shields.io/badge/Portfolio-esmaelsabir.pro.et-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/esmael-sabir/"><img src="https://img.shields.io/badge/LinkedIn-Esmael%20Sabir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/I_s_m_ael"><img src="https://img.shields.io/badge/Telegram-@I__s__m__ael-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
-### Software Engineer | Full-Stack & Backend Development
+## 👋 About Me
 
-I build practical software products, from intuitive user interfaces to backend services, databases, and integrations.
+I'm a full-stack software engineer based in **Addis Ababa, Ethiopia**, building scalable web systems and AI-powered products. I turn real-world problems into practical software, from intuitive interfaces to the APIs, databases, and integrations behind them.
 
-I primarily work with TypeScript and its ecosystem, building web applications, APIs, and systems designed around real-world problems.
+My home base is the **TypeScript** ecosystem: React and Next.js on the front end, NestJS and Node.js on the back end, and mobile and installable apps with React Native, Expo, and PWAs.
 
-- **Core stack:** TypeScript, React, Next.js, Node.js, NestJS
-- **Databases:** PostgreSQL, Prisma, Redis
-- **Engineering:** REST APIs, authentication, system design, Docker
-- **Exploring:** AI-powered applications and scalable backend architectures
+- 🧩 **What I do:** end-to-end product development, with a strong backend and system design focus
+- 🌍 **What I care about:** developer tooling for East African languages, such as [QalSync](https://github.com/Esam-jr/QalSync), a localization toolchain for Amharic, Afaan Oromo, Tigrinya, and Somali
+- 🤖 **Exploring:** AI-powered applications and scalable backend architectures
+- 📱 **Also building:** offline-first mobile experiences
+- 🔗 **More about me:** [esmaelsabir.pro.et](https://esmaelsabir.pro.et/)
 
-### Featured Projects
+## 🛠️ Tech Stack
 
-<!-- Replace these links with the actual repository URLs. -->
+**Languages**
 
-- **Inventory Management System** — A stock management application designed around inventory workflows and multiple branches.
-- **LinkLens** — Explore the repository for its purpose, implementation, and technical decisions.
-- **Payment Platform** — Backend services and payment integration architecture, if the repository is ready for public review.
-- **QalSync** — A localization tool exploring translation workflows and developer tooling, if the repository is ready for public review.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py" alt="Languages" />
+</p>
 
-### Tech Stack
+**Frontend**
 
-**Languages:** TypeScript, JavaScript, Python  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, NestJS, Express  
-**Data:** PostgreSQL, Prisma, Redis, MongoDB  
-**Tools:** Git, Docker, Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
+</p>
 
-### Connect
+**Mobile & PWA**
 
-- **Portfolio:** https://esmaelsabir.pro.et/
-- **LinkedIn:** https://www.linkedin.com/in/esmael-sabir/
-- **GitHub:** https://github.com/Esam-jr
-- **Telegram:** https://t.me/I_s_m_ael
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Backend" />
+</p>
+
+**Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,mongodb" alt="Data" />
+</p>
+
+**Tools & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux" alt="Tools" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Esam-jr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esam-jr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+## 🤝 Let's Connect
+
+I'm open to interesting projects and collaboration. Feel free to reach out.
+
+<p>
+  <a href="https://esmaelsabir.pro.et/"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/esmael-sabir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/I_s_m_ael"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
